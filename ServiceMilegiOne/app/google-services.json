@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "11647375555",
+    "firebase_url": "https://servicedatabase-f48ed.firebaseio.com",
+    "project_id": "servicedatabase-f48ed",
+    "storage_bucket": "servicedatabase-f48ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11647375555:android:7dd3f9c0b60a29e4896a76",
+        "android_client_info": {
+          "package_name": "com.example.prototype_1.ServiceMilegiOne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11647375555-qqti9okh7r6dctuci7l9bgkvs9h56obq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prototype_1.ServiceMilegiOne",
+            "certificate_hash": "0bea3d99f66973de0685933c796e56176e59c7f9"
+          }
+        },
+        {
+          "client_id": "11647375555-tj7n8pcr2ns333pkqtciq40bmm3n1tt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prototype_1.ServiceMilegiOne",
+            "certificate_hash": "0904aa6358d547f897d8aaa924767e186a4095e5"
+          }
+        },
+        {
+          "client_id": "11647375555-iup8ioc3gil5p6hok45v46uqp6gftv9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFV-T04bD9oNDM-xMHMeiqhnWKNm3uDJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11647375555-iup8ioc3gil5p6hok45v46uqp6gftv9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

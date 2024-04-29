@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    tools:context=".activity.PartnerActivity"
+    android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"
+            android:text="@string/para" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="104dp">
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="121dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/round_border"
+                    android:text="Be a partner"
+                    android:textColor="@color/black"
+                    android:textStyle="bold" />
+        </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,99 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.Update"
+    android:orientation="vertical"
+    android:layout_marginRight="8dp"
+    android:layout_marginLeft="8dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/edit"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/round_border"
+        android:textColor="@color/black"
+        android:hint="First Name"
+        android:id="@+id/reg_first_name" />
+
+
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/round_border"
+        android:textColor="@color/black"
+        android:hint="Last Name"
+        android:id="@+id/reg_last_name" />
+
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/round_border"
+        android:textColor="@color/black"
+        android:hint="Mobile Number"
+        android:id="@+id/reg_mob"
+        android:inputType="phone" />
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/round_border"
+        android:textColor="@color/black"
+        android:hint="Email(optional)"
+        android:id="@+id/reg_email"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/round_border"
+        android:textColor="@color/black"
+        android:hint="Address"
+        android:id="@+id/reg_address"
+        android:inputType="textEmailAddress" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="121dp">
+
+        <Button
+            android:id="@+id/edit"
+            android:layout_width="121dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/round_border"
+            android:padding="10dp"
+            android:text="Confirm"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</LinearLayout>

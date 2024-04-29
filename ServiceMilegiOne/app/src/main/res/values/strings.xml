@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeServices</string>
+    <string name="title_activity_bottom__nav">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_bookings">Bookings</string>
+    <string name="title_account">Account</string>
+    <string name="db">Dashboard</string>
+    <string name="about">About Us</string>
+    <string name="partner">Be a Partner</string>
+    <string name="edit">Edit Profile</string>
+    <string name="signout">Sign Out</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="quote">Home Services Everywhere</string>
+    <string name="para">Sizzle It! specializes in crafting dynamic three-to-five-minute promotional videos known as sizzle reels. Our team of freelance editors meticulously assembles media elements provided by clients to create captivating overviews of products, services, or brands. Boutique public-relations firms constitute our primary clientele, and we generate revenue through flat fees for our editing services. Our marketing strategy encompasses cold calling, search engine optimization, and networking within the public-relations industry. What sets us apart from competitors is our focused expertise solely on sizzle reel production, as opposed to offering a broad range of services. As we establish our presence, we plan to expand our client base to include advertising agencies and small businesses.</string>
+    <string name="aboutus">Economic value added underscores the crucial challenge of harmonizing the diverse interests of stakeholders impacted by a business, often entailing conflicting priorities. Alternatively, some define a business\'s core mission as serving a broader spectrum of stakeholders, including employees, customers, and society at large. Many proponents advocate for frameworks like economic value added to reconcile profit-driven goals with broader societal objectives. In this evolving landscape, social progress assumes increasing importance, compelling businesses to uphold elevated levels of social responsibility. Key terms such as &quot;corporation&quot; denote a legal entity distinct from its members, while &quot;stakeholder&quot; refers to any entity with a vested interest in a particular scenario or enterprise. Corporate social responsibility is central to this paradigm, encapsulating the ethical obligations businesses have towards society.</string>
+</resources>
